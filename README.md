@@ -14,7 +14,7 @@ To run this application, you will need the following:
 
 Access the projects folder and run `npm install` from the command line to install the dependencies. Once installed run the command `npm start` to load application on local host 3000.
 
-## How to use
+## How to use the app
 
 ### Choosing which shelf to send a book to
 Once loaded you may choose which shelf to send a book to by clicking on the green circle with a down arrow of any book.
